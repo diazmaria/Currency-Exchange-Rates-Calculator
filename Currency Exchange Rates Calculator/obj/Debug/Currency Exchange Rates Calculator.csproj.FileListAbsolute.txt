@@ -1,0 +1,15 @@
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\bin\Debug\Currency Exchange Rates Calculator.exe.config
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\bin\Debug\Currency Exchange Rates Calculator.exe
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\bin\Debug\Currency Exchange Rates Calculator.pdb
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\obj\Debug\Currency Exchange Rates Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\obj\Debug\Currency_Exchange_Rates_Calculator.FormCurrencyExchangeRates.resources
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\obj\Debug\Currency_Exchange_Rates_Calculator.Properties.Resources.resources
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\obj\Debug\Currency Exchange Rates Calculator.csproj.GenerateResource.Cache
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\obj\Debug\Currency Exchange Rates Calculator.exe
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\obj\Debug\Currency Exchange Rates Calculator.pdb
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\bin\Debug\EntityFramework.dll
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\bin\Debug\EntityFramework.xml
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maria\Desktop\Currency Exchange Rates Calculator\Currency Exchange Rates Calculator\bin\Debug\Newtonsoft.Json.xml
